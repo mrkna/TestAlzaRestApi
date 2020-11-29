@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TestAlzaRestApi.UnitTest": {
+      "commandName": "Project"
+    }
+  }
+}
